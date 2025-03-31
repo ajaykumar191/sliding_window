@@ -1,0 +1,30 @@
+Maximum sum subarray of size k (Kadane's variation)
+First negative number in every window of size k
+Count occurrences of anagrams of a pattern in a text
+Maximum of all subarrays of size k (Deque or Heap-based solution)
+Minimum of all subarrays of size k
+Average of all subarrays of size k
+Check if there exists a subarray of size k with distinct elements
+Find the number of subarrays with exactly k distinct integers
+Find the count of all subarrays with at most k distinct elements
+Number of substrings of size k with distinct characters
+Longest substring with at most k distinct characters
+Longest substring with at most two distinct characters
+Longest substring without repeating characters
+Smallest window in a string containing all characters of another string
+Minimum window substring (Leetcode Hard)
+Longest subarray with sum at most k
+Find the length of the largest subarray with sum exactly k
+Find the smallest subarray with sum at least k//not yet
+Binary subarray with sum k
+Count number of nice subarrays (odd numbers in window)
+Find the length of the longest subarray with at most k zeros (for binary array)
+Max consecutive ones with at most k flips allowed
+Longest subarray where the absolute difference between any two elements is at most k
+Longest substring where frequency of any character is at most k
+Number of subarrays where the maximum element appears at least k times
+Count number of substrings with exactly k distinct vowels
+Find the count of subarrays whose sum is a prime number
+Find the longest contiguous subarray where the difference between adjacent elements is at most k
+Longest subarray whose sum is divisible by k
+Maximum sum of k non-overlapping subarrays
